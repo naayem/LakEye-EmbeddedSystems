@@ -10,6 +10,9 @@ def main():
 
     print(interface.get_bot_info())
 
+    while True:
+        pass
+
 
 if __name__ == "__main__":
     main()

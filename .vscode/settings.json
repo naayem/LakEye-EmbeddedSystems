@@ -1,6 +1,12 @@
 {
+    "python.linting.enabled": true,
+    "editor.tokenColorCustomizations": {
+        "comments": "#00e24b"
+    },
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=120"
+    ],
     "python.pythonPath": "/home/pi/.cache/pypoetry/virtualenvs/stream-video-n8sUmWYC-py3.7/bin/python"
 }
