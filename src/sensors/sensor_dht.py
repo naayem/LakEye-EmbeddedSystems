@@ -14,21 +14,22 @@ class Dht:
     def __init__(self):
         self.variable = 0
 
-    def sensor_ht(telegram, chat_id):
-        try:
-            # Print the values to the serial port
-            temperature_c = dhtDevice.temperature
-            temperature_f = temperature_c * (9 / 5) + 32
-            humidity = dhtDevice.humidity
-            sensor_print = "Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(temperature_f, temperature_c, humidity)
-            telegram.bot.sendMessage(chat_id, sensor_print)
+    def sensor_ht(self):
+        sensor_print = ""
+        while not sensor_print:
+            try:
+                # Print the values to the serial port
+                temperature_c = dhtDevice.temperature
+                temperature_f = temperature_c * (9 / 5) + 32
+                humidity = dhtDevice.humidity
+                sensor_print = "Temp: {:.1f} F / {:.1f} C    Humidity: {}% ".format(
+                    temperature_f, temperature_c, humidity
+                )
 
-        except RuntimeError as error:
-            # Errors happen fairly often, DHT's are hard to read, just keep going
-            print(error.args[0])
-            telegram.bot.sendMessage(chat_id, error.args[0])
-            return
-        except Exception as error:
-            dhtDevice.exit()
-            telegram.bot.sendMessage(chat_id, error)
-            raise error
+            except RuntimeError as error:
+                # Errors happen fairly often, DHT's are hard to read, just keep going
+                print(error.args[0])
+
+            except Exception:
+                sensor_print = "Failed to get temperature."
+        return sensor_print

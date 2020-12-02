@@ -15,6 +15,7 @@ adafruit-circuitpython-neopixel = "^6.0.0"
 "RPi.GPIO" = "^0.7.0"
 Adafruit-Blinka = "^5.8.0"
 rpi-ws281x = "^4.2.5"
+adafruit-circuitpython-dht = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.4"

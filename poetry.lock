@@ -12,6 +12,17 @@ Adafruit-PureIO = ">=1.1.7"
 pyftdi = ">=0.40.0"
 
 [[package]]
+name = "adafruit-circuitpython-dht"
+version = "3.5.1"
+description = "CircuitPython support for DHT11 and DHT22 type temperature/humidity devices"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+Adafruit-Blinka = "*"
+
+[[package]]
 name = "adafruit-circuitpython-neopixel"
 version = "6.0.0"
 description = "CircuitPython library for NeoPixel LEDs."
@@ -373,11 +384,14 @@ testing = ["pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "5bcf93287da90ba578d89599a8582599d8b764a79e8ede118a243282154bbdfb"
+content-hash = "16325e63864d8848049e1ce320b966efaf0d8abdd61b9a279dcb4425887c7f3f"
 
 [metadata.files]
 adafruit-blinka = [
     {file = "Adafruit-Blinka-5.8.0.tar.gz", hash = "sha256:81002e18e1baf3fd5abeee0415c2b45f8e164cc66bbb1a829c6e36b978429c6d"},
+]
+adafruit-circuitpython-dht = [
+    {file = "adafruit-circuitpython-dht-3.5.1.tar.gz", hash = "sha256:2e4b2751b3429e8f5b74bf3c51fb9b5c6d4c78e3a648e8141ced5c7146753f15"},
 ]
 adafruit-circuitpython-neopixel = [
     {file = "adafruit-circuitpython-neopixel-6.0.0.tar.gz", hash = "sha256:1a3752d31a69d57496be44cb35818442b328ec18488e3b7d8411c94802d86195"},

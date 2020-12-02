@@ -1,0 +1,1 @@
+sudo /home/pi/.cache/pypoetry/virtualenvs/stream-video-n8sUmWYC-py3.7/bin/python src/run.py
