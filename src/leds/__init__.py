@@ -1,1 +1,1 @@
-from .leds import LedRing
+from .led_ring import LedRing
