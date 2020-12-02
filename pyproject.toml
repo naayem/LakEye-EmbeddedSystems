@@ -11,6 +11,10 @@ flake8 = "^3.8.4"
 numpy = "^1.19.4"
 opencv-python = "^4.4.0"
 telepot = "^12.7"
+adafruit-circuitpython-neopixel = "^6.0.0"
+"RPi.GPIO" = "^0.7.0"
+Adafruit-Blinka = "^5.8.0"
+rpi-ws281x = "^4.2.5"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.4"
