@@ -4,7 +4,6 @@ from telegram_interface import TelegramInterface
 
 
 def main():
-    print("hey vincent")
 
     interface = TelegramInterface()
 
