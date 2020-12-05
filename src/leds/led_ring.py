@@ -15,7 +15,7 @@ ORDER = neopixel.GRB
 
 class LedRing:
     def __init__(self):
-        self.pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=0.2, auto_write=False, pixel_order=ORDER)
+        self.pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=1.0, auto_write=False, pixel_order=ORDER)
 
     def wheel(self, pos):
         # Input a value 0 to 255 to get a color value.

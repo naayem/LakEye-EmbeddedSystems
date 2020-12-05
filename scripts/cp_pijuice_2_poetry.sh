@@ -1,0 +1,1 @@
+sudo cp /usr/lib/python3/dist-packages/pijuice.py /home/*/.cache/pypoetry/virtualenvs/stream-video-*-py3.7/lib/python3.7/site-packages/

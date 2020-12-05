@@ -308,6 +308,14 @@ optional = false
 python-versions = "*"
 
 [[package]]
+name = "smbus"
+version = "1.1.post2"
+description = "Python bindings for Linux SMBus access through i2c-dev"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "telepot"
 version = "12.7"
 description = "Python framework for Telegram Bot API"
@@ -384,7 +392,7 @@ testing = ["pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "16325e63864d8848049e1ce320b966efaf0d8abdd61b9a279dcb4425887c7f3f"
+content-hash = "fd592702c89ae1f7bab044bbefe7d8039885d4f8ed3f2d9f0880097ec7c28860"
 
 [metadata.files]
 adafruit-blinka = [
@@ -658,6 +666,12 @@ rpi-ws281x = [
 ]
 "rpi.gpio" = [
     {file = "RPi.GPIO-0.7.0.tar.gz", hash = "sha256:7424bc6c205466764f30f666c18187a0824077daf20b295c42f08aea2cb87d3f"},
+]
+smbus = [
+    {file = "smbus-1.1.post2-cp27-cp27mu-linux_armv7l.whl", hash = "sha256:529f9effc383b6381534d1d845eaf1078bdd2d4e625c945b23cf274d5cf1c306"},
+    {file = "smbus-1.1.post2-cp34-cp34m-linux_armv7l.whl", hash = "sha256:39923448455a41c6bbe823de62b191103dd711917056362d9e4b1d2c6ec0f06d"},
+    {file = "smbus-1.1.post2-cp35-cp35m-linux_armv7l.whl", hash = "sha256:b467235734ae5c147c4ec0eff1afb9dba189d9d3cc086ed7e0d3dbf0ae485230"},
+    {file = "smbus-1.1.post2.tar.gz", hash = "sha256:f96d345e0aa10053a8a4917634f1dc37ba1f656fa5cace7629b71777e90855c6"},
 ]
 telepot = [
     {file = "telepot-12.7.tar.gz", hash = "sha256:ba123e49e72d0bd471543350c5a3aacd5a7ac38aaf7f0abccaf786936b3ba8b0"},
