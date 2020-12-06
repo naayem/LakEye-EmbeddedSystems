@@ -31,5 +31,5 @@ class Dht:
                 print(error.args[0])
 
             except Exception:
-                sensor_print = "Failed to get temperature."
+                sensor_print = "Failed to get temperature. Try again"
         return sensor_print

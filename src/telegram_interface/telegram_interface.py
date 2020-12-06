@@ -30,7 +30,7 @@ class TelegramInterface:
 
         self.callback_dict = get_callback_dict(self)
 
-        self.light_status = False
+        self.light_status = True
 
         self.db_manager = DBManager(rate=10)
 
