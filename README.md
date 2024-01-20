@@ -51,14 +51,23 @@ Lakeye project demonstrates an innovative approach to environmental monitoring, 
 
 ## Gallery
 
-<img src="/lake_eye_gallery/gal1.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal2.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal3.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal4.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal5.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal6.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal7.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal8.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal9.png" width="350" height="250">
-<img src="/lake_eye_gallery/gal10.png" width="350" height="250">
-
+<p align="center">
+  <img src="/lake_eye_gallery/gal1.png" width="350" height="250">
+  <img src="/lake_eye_gallery/gal2.png" width="350" height="250">
+</p>
+<p align="center">
+  <img src="/lake_eye_gallery/gal3.png" width="350" height="250">
+  <img src="/lake_eye_gallery/gal4.png" width="350" height="250">
+</p>
+<p align="center">
+  <img src="/lake_eye_gallery/gal5.png" width="350" height="250">
+  <img src="/lake_eye_gallery/gal6.png" width="350" height="250">
+</p>
+<p align="center">
+  <img src="/lake_eye_gallery/gal7.png" width="350" height="250">
+  <img src="/lake_eye_gallery/gal8.png" width="350" height="250">
+</p>
+<p align="center">
+  <img src="/lake_eye_gallery/gal9.png" width="350" height="250">
+  <img src="/lake_eye_gallery/gal10.png" width="350" height="250">
+</p>
