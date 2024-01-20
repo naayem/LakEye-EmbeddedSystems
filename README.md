@@ -9,7 +9,7 @@
 
 
 ## Overview
-The Lakeye project by Group 6 of École Polytechnique Fédérale de Lausanne focuses on designing, prototyping, and business analysis of an autonomous submersible microscope named Lakeye. It aims to facilitate in-situ observations and imaging of phytoplankton, improving water quality monitoring. The team consists of Victor Michaud, Thomas Manteaux, Vincent Naayem, Benoît Pelisson, Marius Paganel, and Philippe Parisot, guided by team coach Samuel Benketaf and Professors Yves Bellouard & Edoardo Charbon.
+This is repository contains the code I implemented for the Lakeye project. The Lakeye project by a group of students of École Polytechnique Fédérale de Lausanne focuses on designing, prototyping, and business analysis of an autonomous submersible microscope named Lakeye. It aims to facilitate in-situ observations and imaging of phytoplankton, improving water quality monitoring. The team consists of Victor Michaud, Thomas Manteaux, Vincent Naayem, Benoît Pelisson, Marius Paganel, and Philippe Parisot, guided by team coach Samuel Benketaf and Professors Yves Bellouard & Edoardo Charbon.
 
 ## Key Features
 - **Autonomous Underwater Microscope:** Designed to collect and transmit images, and analyze aquatic life in-situ.
@@ -31,7 +31,7 @@ The Lakeye project by Group 6 of École Polytechnique Fédérale de Lausanne foc
 - **Project Management:** Utilized tools like Work Breakdown Structure (WBS) and Gantt charts for efficient project execution.
 
 ## Repository Code Files
-The codebase for the Lakeye project is 100% my contribution. Key components include:
+Key components include:
 
 - `telegram_interface.py`: Manages the Telegram bot interface for remote control and monitoring of Lakeye.
 - `sensor_dht.py`: Handles temperature and humidity sensing.
@@ -44,14 +44,14 @@ Lakeye project demonstrates an innovative approach to environmental monitoring, 
 
 ## Gallery
 
-![Gallery Image 1](/lake_eye_gallery/gal1.png)
-![Gallery Image 2](/lake_eye_gallery/gal2.png)
-![Gallery Image 3](/lake_eye_gallery/gal3.png)
-![Gallery Image 4](/lake_eye_gallery/gal4.png)
-![Gallery Image 5](/lake_eye_gallery/gal5.png)
-![Gallery Image 6](/lake_eye_gallery/gal6.png)
-![Gallery Image 7](/lake_eye_gallery/gal7.png)
-![Gallery Image 8](/lake_eye_gallery/gal8.png)
-![Gallery Image 9](/lake_eye_gallery/gal9.png)
-![Gallery Image 10](/lake_eye_gallery/gal10.png)
+<img src="/lake_eye_gallery/gal1.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal2.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal3.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal4.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal5.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal6.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal7.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal8.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal9.png" width="350" height="250">
+<img src="/lake_eye_gallery/gal10.png" width="350" height="250">
 
