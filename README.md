@@ -1,6 +1,6 @@
 # Lakeye Project
 
-[![Watch the video]()](https://youtu.be/sHzOG31b2wI?si=iheE8-CvN_3he-qH)
+[![Watch the video](https://img.youtube.com/vi/sHzOG31b2wI/maxresdefault.jpg)](https://youtu.be/sHzOG31b2wI?si=iheE8-CvN_3he-qH)
 
 ![Gallery Image 10](/lake_eye_gallery/gal10.png)
 
