@@ -5,7 +5,12 @@
 </p>
 
 **Youtube video:**
-[![Watch the video](https://img.youtube.com/vi/sHzOG31b2wI/maxresdefault.jpg)](https://youtu.be/sHzOG31b2wI?si=iheE8-CvN_3he-qH)
+<p align="center">
+  <a href="https://youtu.be/sHzOG31b2wI?si=iheE8-CvN_3he-qH">
+    <img src="https://img.youtube.com/vi/sHzOG31b2wI/maxresdefault.jpg" width="500" alt="Watch the video">
+  </a>
+</p>
+
 
 
 ## Overview
