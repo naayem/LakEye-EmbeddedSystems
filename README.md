@@ -1,13 +1,13 @@
 # Lakeye Project
 
 <p align="center">
-  <img src="/lake_eye_gallery/gal10.png" width="250" height="150">
+  <img src="/lake_eye_gallery/gal10.png" width="400">
 </p>
 
 **Youtube video:**
 <p align="center">
   <a href="https://youtu.be/sHzOG31b2wI?si=iheE8-CvN_3he-qH">
-    <img src="https://img.youtube.com/vi/sHzOG31b2wI/maxresdefault.jpg" width="500" alt="Watch the video">
+    <img src="https://img.youtube.com/vi/sHzOG31b2wI/maxresdefault.jpg" width="400" alt="Watch the video">
   </a>
 </p>
 
