@@ -1,5 +1,8 @@
 # Lakeye Project
 
+## Overview
+This is repository contains the code I implemented for the Lakeye project. The Lakeye project by a group of students of École Polytechnique Fédérale de Lausanne focuses on designing, prototyping, and business analysis of an autonomous submersible microscope named Lakeye. It aims to facilitate in-situ observations and imaging of phytoplankton, improving water quality monitoring. The team consists of Victor Michaud, Thomas Manteaux, Vincent Naayem, Benoît Pelisson, Marius Paganel, and Philippe Parisot, guided by team coach Samuel Benketaf and Professors Yves Bellouard & Edoardo Charbon.
+
 <p align="center">
   <img src="/lake_eye_gallery/gal10.png" width="400">
 </p>
@@ -13,8 +16,7 @@
 
 
 
-## Overview
-This is repository contains the code I implemented for the Lakeye project. The Lakeye project by a group of students of École Polytechnique Fédérale de Lausanne focuses on designing, prototyping, and business analysis of an autonomous submersible microscope named Lakeye. It aims to facilitate in-situ observations and imaging of phytoplankton, improving water quality monitoring. The team consists of Victor Michaud, Thomas Manteaux, Vincent Naayem, Benoît Pelisson, Marius Paganel, and Philippe Parisot, guided by team coach Samuel Benketaf and Professors Yves Bellouard & Edoardo Charbon.
+
 
 ## Key Features
 - **Autonomous Underwater Microscope:** Designed to collect and transmit images, and analyze aquatic life in-situ.
