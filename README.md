@@ -8,6 +8,7 @@ This is repository contains the code I implemented for the Lakeye project. The L
 </p>
 
 **Youtube video:**
+https://youtu.be/sHzOG31b2wI?si=k4TwsvY-O71woNTk
 <p align="center">
   <a href="https://youtu.be/sHzOG31b2wI?si=iheE8-CvN_3he-qH">
     <img src="https://img.youtube.com/vi/sHzOG31b2wI/maxresdefault.jpg" width="400" alt="Watch the video">
