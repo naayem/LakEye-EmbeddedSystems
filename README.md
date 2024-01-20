@@ -15,9 +15,7 @@ https://youtu.be/sHzOG31b2wI?si=k4TwsvY-O71woNTk
   </a>
 </p>
 
-
-
-
+https://github.com/naayem/stream_video/assets/14961905/69c60dea-11cb-4b92-b791-a2021579a064
 
 ## Key Features
 - **Autonomous Underwater Microscope:** Designed to collect and transmit images, and analyze aquatic life in-situ.
