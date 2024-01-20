@@ -13,7 +13,7 @@ This is repository contains the code I implemented for the Lakeye project. The L
   <img src="/lake_eye_gallery/gal10.png" width="400">
 </p>
 
-[LakEye on youtube]([URL](https://youtu.be/sHzOG31b2wI?si=k4TwsvY-O71woNTk))
+[LakEye on youtube](https://youtu.be/sHzOG31b2wI?si=k4TwsvY-O71woNTk)
 
 
 https://github.com/naayem/stream_video/assets/14961905/69c60dea-11cb-4b92-b791-a2021579a064
