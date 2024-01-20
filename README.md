@@ -1,5 +1,8 @@
 # Lakeye Project
-
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white
+https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
+https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white
 ## Overview
 This is repository contains the code I implemented for the Lakeye project. The Lakeye project by a group of students of École Polytechnique Fédérale de Lausanne focuses on designing, prototyping, and business analysis of an autonomous submersible microscope named Lakeye. It aims to facilitate in-situ observations and imaging of phytoplankton, improving water quality monitoring. The team consists of Victor Michaud, Thomas Manteaux, Vincent Naayem, Benoît Pelisson, Marius Paganel, and Philippe Parisot, guided by team coach Samuel Benketaf and Professors Yves Bellouard & Edoardo Charbon.
 
@@ -7,13 +10,8 @@ This is repository contains the code I implemented for the Lakeye project. The L
   <img src="/lake_eye_gallery/gal10.png" width="400">
 </p>
 
-**Youtube video:**
-https://youtu.be/sHzOG31b2wI?si=k4TwsvY-O71woNTk
-<p align="center">
-  <a href="https://youtu.be/sHzOG31b2wI?si=iheE8-CvN_3he-qH">
-    <img src="https://img.youtube.com/vi/sHzOG31b2wI/maxresdefault.jpg" width="400" alt="Watch the video">
-  </a>
-</p>
+[LakEye on youtube]([URL](https://youtu.be/sHzOG31b2wI?si=k4TwsvY-O71woNTk))
+
 
 https://github.com/naayem/stream_video/assets/14961905/69c60dea-11cb-4b92-b791-a2021579a064
 
